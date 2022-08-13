@@ -8,11 +8,11 @@ Music player built with HTML, CSS and JavaScript
 
 - Click to upload songs from pc
 
-![Img](./images/music-player-js.png)
+![Img](./music-player-js.png)
 
 - Use prev, next buttons to change song or pause to pause the song
 
-![Img](./images/music-player.png)
+![Img](./music-player.png)
 
 ### Technologies
 
