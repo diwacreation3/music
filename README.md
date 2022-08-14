@@ -1,6 +1,6 @@
 # Music Player 🎧
 
-[Demo](https://donatellac.github.io/music-player-javascript/)
+[Demo] (https://diwacreation3.github.io/music/) 
 
 Music player built with HTML, CSS and JavaScript
 
